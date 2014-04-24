@@ -58,7 +58,6 @@ class GoogleBooksClient
 		parsed_response.map do |book|
 		puts "[Title: #{book[:title]} - #{book[:subtitle]} | Author(s): #{book[:author]} | Published Date: #{book[:date]}]"
 		end
-		puts
 	end
 
 	def parse(res)
