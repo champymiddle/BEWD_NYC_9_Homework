@@ -1,0 +1,12 @@
+BEWD_NYC_09 - Piroon Tangnavarad
+
+Project: NYC Foodies's personal planner
+
+Target Audience:
+Is app will be targeted to all foodies (those who enjoy eating out at highly rated/expensive/hard to book restaraunts) who live in NYC. All those familiar with eating out in NYC will realize the common annoyances of having to plan around location, reservation times and booking. This app will be focused on easing these experiences for the user.
+
+Functionailty:
+There are many different apps that offer this type of services (opentable, yelp, google maps), but not in the same place which is annoying for users to keep switching between apps to use these services. I intend to embed google maps into the app and center it on the NYC area. Users can choose to add bookings to a chronological reservations table on specific dates (perhaps via opentable, if not just manually) which would pin the location of these restaruants onto google maps. User can set a start point for these bookings (e.g. location of work office or home) and use google maps to plan out a travel plan including travel time needed to get to these locations. This way user will know when to leave their location in order to get to the restaraunt on time. I plan to use the Yelp API to add neccessary information such as restaraunt address, phone number, open close times etc. so that user can easily access this information without having to switch to other websites (which in my experience is quite annoying). Once completed, user can add his/her own personal review/notes of the place which can be shared with fellow users.
+
+3rd party APIS:
+Google maps, Yelp, possibly opentable for booking but this is optional. 
